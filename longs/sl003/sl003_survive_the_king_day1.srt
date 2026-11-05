@@ -1,0 +1,432 @@
+1
+00:00:00,300 --> 00:00:04,566
+KING: You drew a door in my castle. A door that does not exist.
+
+2
+00:00:04,946 --> 00:00:07,908
+WREN: It's a map, Your Majesty. Maps have mistakes.
+
+3
+00:00:08,288 --> 00:00:14,609
+KING: Then survive seven trials before the midnight bell. Fail one, and the mistake is you.
+
+4
+00:00:14,989 --> 00:00:20,598
+This is Wren. She has one day, one candle, and one very large cellmate.
+
+5
+00:00:20,978 --> 00:00:23,071
+HOB: Hob. Hello. We're going to die.
+
+6
+00:00:23,451 --> 00:00:25,890
+Survive the King. Day one.
+
+7
+00:00:31,470 --> 00:00:37,432
+Dawn. Wren's candle will burn for one day. When it's gone, they solve in the dark.
+
+8
+00:00:37,812 --> 00:00:41,618
+The cell door has a lock with six iron dials.
+
+9
+00:00:41,998 --> 00:00:46,961
+Five are already set. Two. Six. Twelve. Twenty. Thirty.
+
+10
+00:00:47,341 --> 00:00:50,897
+WREN: The last dial is blank. Set it right, and the door opens.
+
+11
+00:00:51,277 --> 00:00:52,917
+HOB: And if we set it wrong?
+
+12
+00:00:53,297 --> 00:00:57,967
+A spike drops from the ceiling. Hob has seen it happen. Twice.
+
+13
+00:00:59,147 --> 00:01:01,862
+HOB: I say forty. Round numbers are lucky.
+
+14
+00:01:02,242 --> 00:01:03,393
+WREN: Don't touch it.
+
+15
+00:01:03,773 --> 00:01:08,394
+What finishes the lock? Forty, forty-two, or forty-four?
+
+16
+00:01:19,074 --> 00:01:23,781
+WREN: Look at the gaps. Two to six is four. Six to twelve is six. Then eight. Then ten.
+
+17
+00:01:24,161 --> 00:01:27,155
+WREN: So the next gap is twelve. Thirty plus twelve.
+
+18
+00:01:27,535 --> 00:01:29,102
+HOB: I'd have said forty.
+
+19
+00:01:29,482 --> 00:01:30,284
+WREN: I know.
+
+20
+00:01:30,664 --> 00:01:39,051
+Forty-two. The lock clicks open. But the corridor outside is pitch black, so Wren lights the only candle they have.
+
+21
+00:01:44,431 --> 00:01:53,658
+Wren knows these corridors. Three days ago, she sold the King a map of his own castle. In the north wall, she drew a door.
+
+22
+00:01:54,038 --> 00:01:55,498
+WREN: I drew what I saw.
+
+23
+00:01:55,878 --> 00:02:03,989
+His guards checked the north wall. Solid stone. So the King wants to know who lied: the map, or the mapmaker.
+
+24
+00:02:04,369 --> 00:02:10,084
+The corridor ends at an iron gate. One word is carved across it: crown.
+
+25
+00:02:10,464 --> 00:02:19,317
+Wren reads walls the way she reads maps. Every scratch means something, and the walls here are covered in tally marks.
+
+26
+00:02:19,697 --> 00:02:21,588
+HOB: Prisoners who reached this gate.
+
+27
+00:02:21,968 --> 00:02:23,573
+WREN: And how many got through it?
+
+28
+00:02:23,953 --> 00:02:25,217
+HOB: Let's not count.
+
+29
+00:02:25,597 --> 00:02:29,380
+KING: Change one letter. Make it what I do to traitors.
+
+30
+00:02:29,760 --> 00:02:33,428
+HOB: He tells everyone what he does to traitors. He does it in the moat.
+
+31
+00:02:33,808 --> 00:02:36,186
+Clown, drown, or brown?
+
+32
+00:02:46,866 --> 00:02:48,901
+WREN: He told us himself. The moat.
+
+33
+00:02:49,281 --> 00:02:58,556
+Drown. The C becomes a D, and the gate grinds open. But the stairs behind it lead down, toward the sound of water.
+
+34
+00:02:58,936 --> 00:03:06,839
+Above them, the King listens through a brass speaking tube. Beside him stands his advisor, Master Corvin.
+
+35
+00:03:07,219 --> 00:03:10,101
+CORVIN: Quick minds make good spies, Your Majesty.
+
+36
+00:03:10,481 --> 00:03:13,475
+KING: Or good mapmakers. We will see which.
+
+37
+00:03:18,855 --> 00:03:22,575
+Noon. A long hall, and two guards on patrol.
+
+38
+00:03:22,955 --> 00:03:28,577
+The tall one passes the door every six minutes. The short one, every eight.
+
+39
+00:03:28,957 --> 00:03:34,293
+HOB: They both just walked past. When they meet at the door, they stop and gossip. That is our moment.
+
+40
+00:03:34,673 --> 00:03:38,961
+HOB: I used to walk that patrol. Six minutes. I timed it with my stomach.
+
+41
+00:03:39,341 --> 00:03:40,810
+WREN: Why did they lock you up?
+
+42
+00:03:41,190 --> 00:03:45,798
+HOB: I sneezed during a royal speech. It was a big sneeze. His crown fell off.
+
+43
+00:03:46,178 --> 00:03:48,557
+WREN: So when do they pass the door together again?
+
+44
+00:03:48,937 --> 00:03:52,388
+Fourteen minutes, twenty-four, or forty-eight?
+
+45
+00:04:03,068 --> 00:04:08,958
+WREN: Count the tall one. Six, twelve, eighteen, twenty-four. The short one. Eight, sixteen, twenty-four.
+
+46
+00:04:09,338 --> 00:04:14,753
+WREN: Forty-eight works too, but that is the second time they meet. By then our candle is half gone.
+
+47
+00:04:15,133 --> 00:04:21,390
+At fourteen minutes, Hob nearly stepped out. The short guard was still standing at the door.
+
+48
+00:04:21,770 --> 00:04:28,804
+Twenty-four minutes. The guards meet, argue about soup, and two prisoners walk right behind them.
+
+49
+00:04:34,184 --> 00:04:42,567
+Therefore the next door slams shut behind them. The room is a stone tank, and water pours from a lion's mouth.
+
+50
+00:04:42,947 --> 00:04:47,853
+KING: The water doubles every minute. In ten minutes, this room is full.
+
+51
+00:04:48,233 --> 00:04:53,770
+High on the wall is a grate. It sits at exactly half the room's height.
+
+52
+00:04:54,150 --> 00:04:56,735
+HOB: So we float up to the grate and climb out.
+
+53
+00:04:57,115 --> 00:04:59,987
+WREN: Only if we're ready the moment the water reaches it.
+
+54
+00:05:00,367 --> 00:05:02,081
+HOB: Wren. I can't swim.
+
+55
+00:05:02,461 --> 00:05:05,413
+WREN: You don't have to swim. You have to float, and not panic.
+
+56
+00:05:05,793 --> 00:05:07,897
+HOB: Panicking is my best skill.
+
+57
+00:05:08,277 --> 00:05:10,616
+When is the room half full?
+
+58
+00:05:10,996 --> 00:05:14,047
+Five minutes, nine minutes, or one?
+
+59
+00:05:24,727 --> 00:05:27,680
+WREN: It doubles. So one minute before it's full, it's half full.
+
+60
+00:05:28,060 --> 00:05:35,827
+Nine minutes. For eight minutes the water barely covers their boots. Then, in the ninth, it leaps to the grate.
+
+61
+00:05:36,207 --> 00:05:43,316
+Water to their knees. To their chests. Hob grabs the grate with one hand, and Wren with the other.
+
+62
+00:05:43,696 --> 00:05:46,742
+They squeeze through. The candle does not.
+
+63
+00:05:47,122 --> 00:05:51,602
+CORVIN: The candle is gone, Your Majesty. They will never read the chests.
+
+64
+00:05:51,982 --> 00:05:54,817
+KING: Then we'll learn what she is willing to burn.
+
+65
+00:05:55,197 --> 00:06:00,020
+Now they're in the dark. So the next trial is going to cost something.
+
+66
+00:06:05,400 --> 00:06:11,557
+Dusk. They hear the next trial before they see it. Coins, clinking in three chests.
+
+67
+00:06:11,937 --> 00:06:22,958
+KING: Three chests. One holds gold, one holds lead, one holds both. Every label is wrong. Take one coin from one chest, then name all three.
+
+68
+00:06:23,338 --> 00:06:25,395
+HOB: We can't read labels in the dark.
+
+69
+00:06:25,775 --> 00:06:31,720
+Wren has one thing that burns. The map. The only proof that her door is real.
+
+70
+00:06:33,600 --> 00:06:37,605
+WREN: My father taught me to draw. This is the best map I ever made.
+
+71
+00:06:37,985 --> 00:06:39,923
+HOB: Then it'll make the best light.
+
+72
+00:06:40,303 --> 00:06:44,410
+She lights it. The labels read: gold. Lead. Mixed.
+
+73
+00:06:44,790 --> 00:06:48,887
+Which chest should she draw from? Gold, lead, or mixed?
+
+74
+00:06:59,567 --> 00:07:03,792
+HOB: Take one from the chest marked gold. If it is gold, we are rich.
+
+75
+00:07:04,172 --> 00:07:08,296
+WREN: A gold coin from there could mean all gold or mixed. It tells us nothing.
+
+76
+00:07:08,676 --> 00:07:12,917
+WREN: The one marked mixed. Its label is wrong, so it's all gold or all lead.
+
+77
+00:07:13,297 --> 00:07:21,277
+WREN: Say the coin is gold. The chest marked lead can't be lead, and gold is taken, so it's mixed. The chest marked gold holds the lead.
+
+78
+00:07:21,657 --> 00:07:26,774
+Three chests, three right names. The door opens. The map is ash.
+
+79
+00:07:27,154 --> 00:07:29,724
+WREN: It doesn't matter. I remember every line.
+
+80
+00:07:30,104 --> 00:07:32,465
+HOB: Good. Because I don't remember anything.
+
+81
+00:07:37,845 --> 00:07:44,581
+Night. A door with letters burned into it. Above them, a key: L, J, O, H means king.
+
+82
+00:07:44,961 --> 00:07:50,082
+WREN: Every letter is one step ahead in the alphabet. L is really K. J is really I.
+
+83
+00:07:50,462 --> 00:07:54,983
+The password is T, Q, Z. Spy, sky, or toy?
+
+84
+00:07:55,363 --> 00:07:58,865
+HOB: Sky. It has to be sky. Everyone loves the sky.
+
+85
+00:08:09,545 --> 00:08:15,599
+Step each letter back. T becomes S. Q becomes P. Z becomes Y.
+
+86
+00:08:15,979 --> 00:08:18,719
+WREN: Sky would have been T, L, Z. There is no L.
+
+87
+00:08:19,099 --> 00:08:19,785
+WREN: Spy.
+
+88
+00:08:20,165 --> 00:08:22,358
+HOB: Why would the password be spy?
+
+89
+00:08:22,738 --> 00:08:32,037
+KING: Because three nights ago, a spy walked into my castle through a door that does not exist. And the only map that shows it was yours.
+
+90
+00:08:32,417 --> 00:08:35,756
+WREN: I didn't let anyone in. I only drew what was already there.
+
+91
+00:08:36,136 --> 00:08:39,570
+KING: Then you will show me where it is. Before midnight.
+
+92
+00:08:39,950 --> 00:08:43,941
+Behind the King, Master Corvin's quill stops moving.
+
+93
+00:08:44,321 --> 00:08:48,759
+CORVIN: Your Majesty, if she were the spy, why would she draw her own door?
+
+94
+00:08:49,139 --> 00:08:52,363
+KING: That is exactly what I intend to find out.
+
+95
+00:08:52,743 --> 00:08:58,555
+So the trials were never a punishment. They were a test of who Wren really is.
+
+96
+00:09:03,935 --> 00:09:08,270
+Midnight. The last door opens only while the bell is ringing.
+
+97
+00:09:08,650 --> 00:09:17,466
+KING: At six, my bell rings six times. From the first ring to the last takes five seconds. At midnight, it rings twelve.
+
+98
+00:09:17,846 --> 00:09:23,014
+From the first ring to the last: ten seconds, eleven, or twelve?
+
+99
+00:09:33,694 --> 00:09:38,531
+WREN: Six rings have five gaps. One second each. Twelve rings have eleven gaps.
+
+100
+00:09:38,911 --> 00:09:43,662
+Eleven seconds. They run on the first ring. But Hob is slow.
+
+101
+00:09:45,042 --> 00:09:46,291
+HOB: Go without me!
+
+102
+00:09:46,671 --> 00:09:47,842
+WREN: Not a chance.
+
+103
+00:09:48,222 --> 00:09:51,647
+On the eleventh second, Wren drags him through.
+
+104
+00:09:55,427 --> 00:10:03,512
+They stumble into the King's own bedchamber. Behind them, in the north wall, is a door. The door Wren drew.
+
+105
+00:10:03,892 --> 00:10:07,967
+KING: A door that does not exist. And yet, here you stand.
+
+106
+00:10:08,347 --> 00:10:12,638
+In the corner, Master Corvin quietly pushes the door shut.
+
+107
+00:10:13,018 --> 00:10:19,795
+KING: Day two begins at dawn. One of you walks free. The other hangs for the spy. You choose.
+
+108
+00:10:20,175 --> 00:10:22,040
+Day two: the choice.
+
